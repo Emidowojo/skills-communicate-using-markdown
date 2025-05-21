@@ -12,6 +12,9 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 
@@ -34,8 +37,7 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 
 
 
-
-
-Testing out markdown
-Added a Yako Cat
-Adding Code blocks
+###### Testing out markdown
+###### Added a Yako Cat
+###### Adding Code blocks
+###### Added a Task list
